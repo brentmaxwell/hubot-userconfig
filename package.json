@@ -1,0 +1,8 @@
+{
+  "name": "hubot-userconfig",
+  "description": "User Config plugin for nakita.",
+  "version": "0.0.1",
+  "author": "Brent Maxwell <brent@thebrent.net>",
+  "license": "MIT",
+  "main": "index.coffee"
+}
