@@ -38,6 +38,4 @@ module.exports = (robot) ->
   
   robot.respond /get my config$/, id:'userconfig:getall', (res) ->
     res.send JSON.stringify(getUserConfig(res.message.user.id))
-    
-  
-  
+
