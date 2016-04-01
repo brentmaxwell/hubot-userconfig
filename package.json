@@ -1,0 +1,24 @@
+{
+  "name": "hubot-userconfig",
+  "version": "0.0.1",
+  "description": "A hubot module to allow users to set certain config variables for use in other scripts",
+  "main": "index.coffee",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentmaxwell/hubot-userconfig.git"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "author": "Brent Maxwell <brent@thebrent.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brentmaxwell/hubot-userconfig/issues"
+  },
+  "homepage": "https://github.com/brentmaxwell/hubot-userconfig#readme"
+}
