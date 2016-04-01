@@ -1,6 +1,6 @@
 {
   "name": "hubot-userconfig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A hubot module to allow users to set certain config variables for use in other scripts",
   "main": "index.coffee",
   "keywords": [
